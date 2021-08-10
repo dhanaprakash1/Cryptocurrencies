@@ -1,1 +1,4 @@
 # Cryptocurrencies
+
+## PCA 
+## K-Means
